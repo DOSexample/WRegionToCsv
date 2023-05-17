@@ -1,0 +1,16 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/bytes@1.0.3/mod.ts": "0df9e698738399cb6ab2ceaff1d64d45e1581d62c900e3cc6664d75556288fb8",
+    "https://deno.land/x/bytes@1.0.3/src/bitarray/BitArray.ts": "0b3ad2f03aee0bc5f1f047714e83fec43e9ccbab32b4113cb61925ac80fec62d",
+    "https://deno.land/x/bytes@1.0.3/src/bitarray/Read.ts": "f8e721c984a7297025de9406304cf96cf9778f999fa6ed064dfee5f3d4f9800d",
+    "https://deno.land/x/bytes@1.0.3/src/bitarray/Write.ts": "2ef36768c7d47b00e9100507452ce8ce9b14912bc0f1059926a022a719de7d9c",
+    "https://deno.land/x/bytes@1.0.3/src/byteset/ByteSet.ts": "9b7306cb12852cfaf6340378a87c9e5b33eba6de8c3d4c05ddc411bb3da2743c",
+    "https://deno.land/x/bytes@1.0.3/src/byteset/Read.ts": "761966c30456c6cc5b4a52c7e154139033b03e6b14c8cecea88f68ad3f0c2b66",
+    "https://deno.land/x/bytes@1.0.3/src/byteset/Write.ts": "9ec31b39bc1306960f70486e3e898cc38902f2ce3ba338912e1acdee6867b97e",
+    "https://deno.land/x/getfiles@v1.0.0/fs.ts": "b387902cfdc4e0ffba125343c68f6f886da5ac906882124a3ed908a3d68da053",
+    "https://deno.land/x/getfiles@v1.0.0/mod.ts": "59810c6574a4be76c0115db6477ca07b04206bbfa7a6dcf907c111ae073b4c7e",
+    "https://deno.land/x/getfiles@v1.0.0/types.ts": "8f09fb5b57e02dfddd1f375c4b97b88a38068a0ac3b9ac78501dc4d5a0b582f9",
+    "https://deno.land/x/getfiles@v1.0.0/utils.ts": "01c4dc7f8057c41a8eefa587726938adb2958c470b58a2676224299e10245118"
+  }
+}
